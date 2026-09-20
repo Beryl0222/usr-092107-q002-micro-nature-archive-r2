@@ -1,0 +1,9 @@
+{
+  "event_id": "sample-002-001",
+  "event_type": "OBSERVATION_REGISTERED",
+  "aggregate_type": "field_observation",
+  "aggregate_id": "micro_nature_archive-001",
+  "occurred_at": "2026-09-20T18:00:00+08:00",
+  "version": 1,
+  "summary": "登记微观自然影像档案的首条领域记录"
+}
