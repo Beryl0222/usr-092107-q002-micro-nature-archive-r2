@@ -1,0 +1,77 @@
+{
+  "catalog_as_published": {
+    "common_name": "巨腿螳（未定种）",
+    "credit": "王秀",
+    "license_scopes": [
+      "catalog_print",
+      "public_exhibition"
+    ],
+    "scientific_name": "Hestiasula sp."
+  },
+  "catalog_current_name": [
+    "Hestiasula major",
+    "大巨腿螳"
+  ],
+  "duplicate_submission_observation": "obs-lingnan-2026-0001",
+  "event_count": 29,
+  "export_verify": {
+    "event_stream": {
+      "algorithm": "sha256",
+      "event_count": 29,
+      "value": "724297c7bc2ed8c2d618813ce7d3bdbbe0cdf656df0cda22e6ab86fb37dc8919"
+    },
+    "ok": true,
+    "recomputed": "454f0ba9d5ed1a004d668ef1509d59c678189080aa4493b94bdf72eb204c5443",
+    "recorded": "454f0ba9d5ed1a004d668ef1509d59c678189080aa4493b94bdf72eb204c5443"
+  },
+  "label_blocked_compliant_flag": false,
+  "label_compliant": true,
+  "lineage_grade1": [
+    [
+      "master",
+      true
+    ],
+    [
+      "crop",
+      true
+    ],
+    [
+      "color_grade",
+      true
+    ]
+  ],
+  "observation_count": 5,
+  "rebuild_reproducible": true,
+  "research_plate_license_only": [
+    "educational",
+    "research_citation"
+  ],
+  "sensitive_location_curator": {
+    "label": "广东·南岭（精确坐标限资质访问）",
+    "precision": "blurred"
+  },
+  "sensitive_location_researcher": {
+    "label": "广东·南岭（精确坐标限资质访问）",
+    "precision": "blurred"
+  },
+  "sensitive_location_researcher_sensitive": {
+    "label": "广东·南岭（精确坐标限资质访问）",
+    "lat": 24.9381,
+    "lon": 112.9912,
+    "precision": "exact",
+    "radius_m": 0
+  },
+  "trace_heqi_uses": [
+    [
+      "obs-lingnan-2026-0004",
+      "public_exhibition",
+      "EX-2026-031"
+    ]
+  ],
+  "trace_heqi_work_count": 1,
+  "withdrawal": {
+    "commercial_blocked": true,
+    "commercial_removed": true,
+    "research_citation_kept": true
+  }
+}

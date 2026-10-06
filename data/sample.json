@@ -2,8 +2,41 @@
   "event_id": "sample-002-001",
   "event_type": "OBSERVATION_REGISTERED",
   "aggregate_type": "field_observation",
-  "aggregate_id": "micro_nature_archive-001",
+  "aggregate_id": "obs-lingnan-2026-0001",
   "occurred_at": "2026-09-20T18:00:00+08:00",
   "version": 1,
-  "summary": "登记微观自然影像档案的首条领域记录"
+  "summary": "登记岭南微距影像档案的首条野外观察",
+  "payload": {
+    "observed_at": "2026-09-20T09:12:00+08:00",
+    "photographer_id": "p-chenjing",
+    "photographer_display_name": "陈静",
+    "location": {
+      "precision": "blurred",
+      "label": "广东·鼎湖山国家级自然保护区（周边区域）",
+      "radius_m": 2000
+    },
+    "sensitive_taxon": false,
+    "conditions": {
+      "habitat": "亚热带常绿阔叶林林下落叶层",
+      "weather": "多云转晴",
+      "temperature_c": 26.4,
+      "notes": "晨露未散，微距拍摄"
+    },
+    "original_file": {
+      "filename": "DJI_20260920_091200_RAW.DNG",
+      "checksum": {
+        "algorithm": "sha256",
+        "value": "a1b2c3d4e5f60718293a4b5c6d7e8f90a1b2c3d4e5f60718293a4b5c6d7e8f90"
+      },
+      "byte_size": 48231200
+    },
+    "initial_identification": {
+      "scientific_name": "Odontomantis sinensis",
+      "common_name": "中华齿螳",
+      "basis": "photographer",
+      "confidence": "medium",
+      "taxonomy_source": "WF11 2026"
+    },
+    "submission_id": "sub-2026-09-30-chenjing-01"
+  }
 }
